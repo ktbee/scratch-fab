@@ -1,0 +1,19 @@
+{
+  "name": "scratch-fab",
+  "version": "1.0.0",
+  "description": "An unofficial Scratch extension to help makers create and export generative art ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktbee/scratch-fab.git"
+  },
+  "author": "Katie Broida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktbee/scratch-fab/issues"
+  },
+  "homepage": "https://github.com/ktbee/scratch-fab#readme"
+}
