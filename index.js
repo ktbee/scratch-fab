@@ -15,14 +15,8 @@ class ScratchFab {
             blocks: [
                 {
                     opcode: 'saveFile',
-                    blockType: 'button',
-                    text: 'Export fab design',
-                    arguments: {
-                        FILE_NAME: {
-                            type: 'string',
-                            defaultValue: '1'
-                        }
-                    }
+                    blockType: 'command',
+                    text: 'Export fab design'
                 }
             ]
         };
